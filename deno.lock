@@ -1,0 +1,31 @@
+{
+  "version": "3",
+  "redirects": {
+    "https://cdn.skypack.dev/preact@10.10.6": "https://cdn.skypack.dev/error/build:preact@v10.10.6-89mA0LKski3RVl1GcGJo",
+    "https://esm.sh/preact/jsx-runtime": "https://esm.sh/preact@10.20.2/jsx-runtime"
+  },
+  "remote": {
+    "https://cdn.skypack.dev/-/preact-render-to-string@v5.1.12-bxVngfUvIHzdneYL1ENU/dist=es2019,mode=imports/optimized/preact-render-to-string.js": "4c39d922d84b828cd531e9ff8f48db9ee5aca58afac6b30d705a594037aee241",
+    "https://cdn.skypack.dev/-/preact@v10.9.0-sxzybx7sBosD3fXpfbt3/dist=es2019,mode=imports/optimized/preact.js": "e66dc0378907870a2230ec2e087214c1ec7678150220412f8438f918744b2ecc",
+    "https://cdn.skypack.dev/preact-render-to-string@v5.1.12": "efe649e5d99870f8cf2802857b16cf62a14ce799e3bc1ba9ea3e102efb218f58",
+    "https://esm.sh/@twind/core@1.1.3": "cacb643913d53afb1934002d76ce383fd51a6a5b6767068e3464bc4f1ff216aa",
+    "https://esm.sh/@twind/preset-tailwind@1.1.4": "13a2b9ecb4830d6bd4377b5977d04b2f1fa767fee9f6cf925ee77f0992b41544",
+    "https://esm.sh/preact@10.20.2/jsx-runtime": "4033ac4e42fbb1c6b4a2dc776aa8c69e21d3d1964b9ad09b94dda91750a77589",
+    "https://esm.sh/stable/preact@10.20.2/denonext/jsx-runtime.js": "2a5b981955e92e3ff86906ac0e5955ec0e6e5ca71032f3f063912cb85ae9a7f1",
+    "https://esm.sh/stable/preact@10.20.2/denonext/preact.mjs": "f418bc70c24b785703afb9d4dea8cdc1e315e43c8df620a0c52fd27ad9bd70eb",
+    "https://esm.sh/v135/@twind/core@1.1.3/denonext/core.mjs": "c2618087a5d5cc406c7dc1079015f4d7cc874bee167f74e9945694896d907b6d",
+    "https://esm.sh/v135/@twind/preset-tailwind@1.1.4/denonext/base.js": "0c554aa0fa34f186e5424e5789230755b4cde0f66e4a18e4f469c551029e881b",
+    "https://esm.sh/v135/@twind/preset-tailwind@1.1.4/denonext/baseTheme.js": "48ced918d6ee3053d109b85c3c0a986d9514e31e7de92126c2a21265633fdaf8",
+    "https://esm.sh/v135/@twind/preset-tailwind@1.1.4/denonext/preflight.js": "aba6255dc9e4bc55dec2ec8d5fb58392088d5fd2778edaee2e6ecc0300124ad1",
+    "https://esm.sh/v135/@twind/preset-tailwind@1.1.4/denonext/preset-tailwind.mjs": "b8292ba64ae5c740438770c2589e6547b5eed1f9a31e1834ac4807f5b24f8066",
+    "https://esm.sh/v135/@twind/preset-tailwind@1.1.4/denonext/rules.js": "8b7bff60b55e0bf33bdbce72b403d49449e03e5c9114edf6ba4aee38f0663901",
+    "https://esm.sh/v135/@twind/preset-tailwind@1.1.4/denonext/variants.js": "9d2310bbc179a71d88268866f1806e38d1557f1fdcf068668a14d7fbc5ce12dc",
+    "https://jspm.dev/npm:object-assign@4!cjs": "b19fbacc33f0ed8b8b4f8f7d0361a0546f4a5b946c3313fe9d36f4e599ecc41e",
+    "https://jspm.dev/npm:object-assign@4.1.1!cjs": "6da711649ed78e03ebae561088386c8ece0fcc1c8da2b2f32de6515d30ac1db6",
+    "https://jspm.dev/npm:prop-types@15.8.1/_/f978e390.js": "f6b19c6d51034dfbde5f05a881c20d6f01659b0edcae38bb7fb88b70784943aa",
+    "https://jspm.dev/npm:prop-types@15/checkPropTypes!cjs": "05a4324b1c280f86c2f3a5d18bb0e6c8c18da606ab530c93647a952fe95598ea",
+    "https://jspm.dev/npm:react@16.14.0!cjs": "ebb4dbffab9ca87eb9c32036f70b40932747669d9615d77c80293b743cc755c4",
+    "https://jspm.dev/npm:react@16.14.0/cjs/react.development.js!cjs": "c9a5f57b27559a9cd124a3fcdb8243464078f0cfe070eb92dbaaa49f970b7df2",
+    "https://jspm.dev/react@16.14.0": "3d25711f9d843ed668d7566a171565c1567331acb60f6d555615f4fdbb42206e"
+  }
+}
