@@ -10,6 +10,7 @@
     "https://cdn.skypack.dev/preact-render-to-string@v5.1.12": "efe649e5d99870f8cf2802857b16cf62a14ce799e3bc1ba9ea3e102efb218f58",
     "https://esm.sh/@twind/core@1.1.3": "cacb643913d53afb1934002d76ce383fd51a6a5b6767068e3464bc4f1ff216aa",
     "https://esm.sh/@twind/preset-tailwind@1.1.4": "13a2b9ecb4830d6bd4377b5977d04b2f1fa767fee9f6cf925ee77f0992b41544",
+    "https://esm.sh/preact@10.20.2//jsx-runtime": "4033ac4e42fbb1c6b4a2dc776aa8c69e21d3d1964b9ad09b94dda91750a77589",
     "https://esm.sh/preact@10.20.2/jsx-runtime": "4033ac4e42fbb1c6b4a2dc776aa8c69e21d3d1964b9ad09b94dda91750a77589",
     "https://esm.sh/stable/preact@10.20.2/denonext/jsx-runtime.js": "2a5b981955e92e3ff86906ac0e5955ec0e6e5ca71032f3f063912cb85ae9a7f1",
     "https://esm.sh/stable/preact@10.20.2/denonext/preact.mjs": "f418bc70c24b785703afb9d4dea8cdc1e315e43c8df620a0c52fd27ad9bd70eb",
